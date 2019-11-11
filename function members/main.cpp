@@ -11,7 +11,7 @@ public:
     // here we can have 2 getvalue declaration one with const qualifier and one without both can co exist
 
     //rule const functions can always be called from mutable objects and from const qualified objects also..
-    // but normal cant be called for const qualified objects
+    // but normal/non const cant be called for const qualified objects
 
     void setValue(int value) {
         _value = value;

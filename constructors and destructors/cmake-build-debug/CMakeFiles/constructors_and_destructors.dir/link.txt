@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/constructors_and_destructors.dir/main.cpp.o  -o constructors_and_destructors 
