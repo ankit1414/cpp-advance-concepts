@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ankit/cpp_advance_concepts/vector and list usage example/main.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+list
+-
+

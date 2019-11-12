@@ -1,0 +1,15 @@
+ankit
+boy
+14
+deepak
+male
+44
+priya
+female
+19
+gaurav
+boy
+22
+megha
+girl
+24

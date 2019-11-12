@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/vector_and_list_usage_example.dir/main.cpp.o  -o vector_and_list_usage_example 
